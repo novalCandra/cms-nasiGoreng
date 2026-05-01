@@ -46,7 +46,7 @@ export function Location() {
                   </h4>
                   <ul>
                     <li>
-                      <span className="text-sm md:text-lg sm:text-2xl">
+                      <span className="text-sm sm:text-base md:text-lg">
                         Senin - Kamis :{" "}
                       </span>{" "}
                       <span className="text-gray-600 dark:text-gray-400 text-sm md:text-lg sm:text-2xl">
@@ -54,7 +54,7 @@ export function Location() {
                       </span>
                     </li>
                     <li>
-                      <span className="text-sm md:text-lg sm:text-2xl">
+                      <span className="text-sm sm:text-base md:text-lg">
                         Sabtu - Minggu :
                       </span>{" "}
                       <span className="text-gray-600 dark:text-gray-400 text-sm md:text-lg sm:text-2xl">
@@ -62,7 +62,7 @@ export function Location() {
                       </span>
                     </li>
                     <li>
-                      <span className="text-sm md:text-lg sm:text-2xl">
+                      <span className="text-sm sm:text-base md:text-lg">
                         Jumat :
                       </span>{" "}
                       <span className="text-gray-600 dark:text-gray-400 text-sm md:text-lg sm:text-2xl">
