@@ -17,7 +17,7 @@ export function Hero() {
         >
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary-50 dark:bg-primary-900/20 text-primary-700 dark:text-primary-300 rounded-full text-sm font-medium">
             <Star size={16} className="fill-primary-500 text-primary-500" />
-            <span>Best Fried Rice in Town</span>
+            <span>Nasi Goreng Terbaik di Kota / Kabupaten ini</span>
           </div>
 
           <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
@@ -96,8 +96,8 @@ export function Hero() {
               🔥
             </div>
             <div>
-              <p className="text-xs text-gray-500">Popular</p>
-              <p className="font-bold text-sm">Special Spicy</p>
+              <p className="text-xs text-gray-500">Populer</p>
+              <p className="font-bold text-sm">Pedas Spesial</p>
             </div>
           </motion.div>
 

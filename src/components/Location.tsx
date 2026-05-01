@@ -74,10 +74,17 @@ export function Location() {
               </div>
             </div>
 
-            <button className="btn-primary w-full sm:w-auto flex items-center justify-center gap-2">
+            <a
+              href={
+                "https://www.google.com/maps?ll=-7.667884,112.752061&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=Jl.+Raya+Sukorejo+Pasuruan+Jawa+Timur"
+              }
+              target="_blank"
+              type="button"
+              className="btn-primary w-full sm:w-auto flex items-center justify-center gap-2"
+            >
               <Navigation size={18} />
-              Get Directions
-            </button>
+              Lihat Meta
+            </a>
           </div>
 
           <motion.div
