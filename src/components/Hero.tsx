@@ -3,7 +3,7 @@ import { ArrowRight, Star } from "lucide-react";
 
 export function Hero() {
   return (
-    <section id="home" className="relative pt-32 pb-20 overflow-hidden">
+    <section id="beranda" className="relative pt-32 pb-20 overflow-hidden">
       {/* Background blobs */}
       <div className="absolute top-0 right-0 -z-10 w-[500px] h-[500px] bg-primary-200/30 dark:bg-primary-900/10 blur-[100px] rounded-full translate-x-1/2 -translate-y-1/2" />
       <div className="absolute bottom-0 left-0 -z-10 w-[400px] h-[400px] bg-orange-200/30 dark:bg-orange-900/10 blur-[100px] rounded-full -translate-x-1/2 translate-y-1/2" />
