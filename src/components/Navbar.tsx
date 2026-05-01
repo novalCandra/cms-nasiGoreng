@@ -5,7 +5,7 @@ import { useDarkMode } from "../hooks/useDarkMode";
 import { cn } from "../utils/cn";
 
 const navLinks = [
-  { name: "Home", href: "#home" },
+  { name: "Beranda", href: "#beranda" },
   { name: "Menu", href: "#menu" },
   { name: "Lokasi", href: "#location" },
   { name: "Hubungi Kami", href: "#contact" },
