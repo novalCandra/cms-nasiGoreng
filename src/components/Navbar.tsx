@@ -7,8 +7,8 @@ import { cn } from "../utils/cn";
 const navLinks = [
   { name: "Home", href: "#home" },
   { name: "Menu", href: "#menu" },
-  { name: "Location", href: "#location" },
-  { name: "Contact", href: "#contact" },
+  { name: "Lokasi", href: "#location" },
+  { name: "Hubungi Kami", href: "#contact" },
 ];
 
 export function Navbar() {

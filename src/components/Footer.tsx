@@ -30,7 +30,7 @@ export function Footer() {
                 href="#menu"
                 className="hover:text-primary-600 transition-colors"
               >
-                Our Menu
+                Menu Kami
               </a>
             </li>
             <li>
@@ -38,7 +38,7 @@ export function Footer() {
                 href="#location"
                 className="hover:text-primary-600 transition-colors"
               >
-                Locations
+                Lokasi
               </a>
             </li>
             <li>
@@ -46,14 +46,14 @@ export function Footer() {
                 href="#contact"
                 className="hover:text-primary-600 transition-colors"
               >
-                Contact Us
+                Hubungi Kami
               </a>
             </li>
           </ul>
         </div>
 
         <div>
-          <h4 className="font-bold mb-6">Opening Hours</h4>
+          <h4 className="font-bold mb-6">Jam Buka - Jam Tutup</h4>
           <ul className="space-y-4 text-sm text-gray-600 dark:text-gray-400">
             <li className="flex justify-between">
               <span>Senin - Kamis</span> <span>10:00 - 22:00</span>
@@ -68,7 +68,7 @@ export function Footer() {
         </div>
 
         <div>
-          <h4 className="font-bold mb-6">Contact Info</h4>
+          <h4 className="font-bold mb-6">Hubungi Kami</h4>
           <ul className="space-y-4 text-sm text-gray-600 dark:text-gray-400">
             <li className="flex items-center gap-3">
               <Phone size={16} className="text-primary-600" />
