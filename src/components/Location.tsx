@@ -75,9 +75,7 @@ export function Location() {
             </div>
 
             <a
-              href={
-                "https://www.google.com/maps?ll=-7.667884,112.752061&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=Jl.+Raya+Sukorejo+Pasuruan+Jawa+Timur"
-              }
+              href={"https://www.google.com/maps?q=Jl.+Raya+Sukorejo"}
               target="_blank"
               type="button"
               className="btn-primary w-full sm:w-auto flex items-center justify-center gap-2"
