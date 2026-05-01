@@ -15,9 +15,10 @@ export function Location() {
                 Lokasi <span className="text-primary-600">Nasgor</span>Santuy
               </h2>
               <p className="text-gray-600 dark:text-gray-400 text-lg leading-relaxed">
-                Located in the heart of Jakarta, our kitchen is designed for
-                comfort and great taste. Come by and enjoy the best fried rice
-                in a relaxing atmosphere.
+                Lagi di Pasuruan? Yuk, mampir ke kedai kami yang berlokasi di
+                Desa Glatik, Kec. Sukorejo Nikmati kelezatan nasi goreng terbaik
+                dalam suasana santai yang bikin betah. Kami tunggu kedatangannya
+                ya
               </p>
             </div>
 
@@ -43,9 +44,32 @@ export function Location() {
                   <h4 className="font-bold text-lg mb-1">
                     JAM BUKA - JAM TUTUP
                   </h4>
-                  <p className="text-gray-600 dark:text-gray-400">
-                    17:00 - 22:00
-                  </p>
+                  <ul>
+                    <li>
+                      <span className="text-sm md:text-lg sm:text-2xl">
+                        Senin - Kamis :{" "}
+                      </span>{" "}
+                      <span className="text-gray-600 dark:text-gray-400 text-sm md:text-lg sm:text-2xl">
+                        17:00 - 20:00
+                      </span>
+                    </li>
+                    <li>
+                      <span className="text-sm md:text-lg sm:text-2xl">
+                        Sabtu - Minggu :
+                      </span>{" "}
+                      <span className="text-gray-600 dark:text-gray-400 text-sm md:text-lg sm:text-2xl">
+                        17:00 - 20:00
+                      </span>
+                    </li>
+                    <li>
+                      <span className="text-sm md:text-lg sm:text-2xl">
+                        Jumat :
+                      </span>{" "}
+                      <span className="text-gray-600 dark:text-gray-400 text-sm md:text-lg sm:text-2xl">
+                        Tutup
+                      </span>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
